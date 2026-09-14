@@ -1,0 +1,20 @@
+# Binaries
+/cosmodrome
+*.exe
+*.test
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# Persistent database and workspaces
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# OS & Editor
+.DS_Store
+.vscode/
+.idea/
+*.log
